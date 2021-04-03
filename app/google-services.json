@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "644330223623",
+    "project_id": "mcclab2-335df",
+    "storage_bucket": "mcclab2-335df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644330223623:android:6baae59658c5e3c6f412a2",
+        "android_client_info": {
+          "package_name": "com.example.mcclab2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644330223623-mrv1ftjvhekqumm6plnm1e5etsm5a4f6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFW2rxPgZvP_ifx_bKs6dvrIsQwGEfR4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644330223623-mrv1ftjvhekqumm6plnm1e5etsm5a4f6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
